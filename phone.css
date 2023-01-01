@@ -32,6 +32,17 @@
     margin-bottom: 20px;
 }
 
+/*product section */
+#product{
+    flex-direction: column;
+}
+
+#product .box{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
 /* Clients Section */
 #clients{
     flex-wrap: wrap;
