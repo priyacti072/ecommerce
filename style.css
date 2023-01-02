@@ -122,7 +122,7 @@ html {
 }
 
 #services .box img {
-    height: 500px;
+    height: 250px;
     width: 250px;
     display: block;
     margin: auto;
@@ -147,8 +147,8 @@ html {
 }
 
 #product .box img {
-    height: 500px;
-    width: 500px;
+    height: 250px;
+    width: 250px;
     display: block;
     margin: auto;
 }
